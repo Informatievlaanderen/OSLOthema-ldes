@@ -15,8 +15,18 @@
             "waarde": "Werkgroep charter OSLO LDES.docx"
         }
     ],
-    "verslagen": [],
-    "presentaties": [],
+    "verslagen": [
+        {
+            "naam": "Verslag business werkgroep 1 - 16 december 2021",
+            "waarde": "Verslag business werkgroep - 16 december 2021.docx"
+        }
+    ],
+    "presentaties": [
+        {
+            "naam": "Presentatie business werkgroep 1 - 16 december 2021",
+            "waarde": "Presentatie business werkgroep - 16 december 2021.pptx"
+        }
+    ],
     "functioneel_toepassingsgebied": "",
     "organisatorisch_werkingsgebied": "",
     "datum_van_aanmelding": "18 november 2021",
