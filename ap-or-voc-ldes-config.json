@@ -19,12 +19,20 @@
         {
             "naam": "Verslag business werkgroep 1 - 16 december 2021",
             "waarde": "Verslag business werkgroep - 16 december 2021.docx"
+        },
+        {
+            "naam": "Verslag thematische werkgroep 1 - 20 januari 2022",
+            "waarde": "Verslag thematische werkgroep 1 - 20 januari 2022.docx"
         }
     ],
     "presentaties": [
         {
             "naam": "Presentatie business werkgroep 1 - 16 december 2021",
             "waarde": "Presentatie business werkgroep - 16 december 2021.pptx"
+        },
+        {
+            "naam": "Presentatie thematische werkgroep 1 - 20 januari 2022",
+            "waarde": "Presentatie thematische werkgroep 1 - 20 januari 2022.pdf"
         }
     ],
     "functioneel_toepassingsgebied": "",
