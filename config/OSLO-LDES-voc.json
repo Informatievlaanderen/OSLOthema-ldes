@@ -2,7 +2,7 @@
 {
   "name": "OSLO-LDES-voc",
   "type": "voc",
-  "eap": "OSLO-LDES.eap",
+  "eap": "OSLO-LDES-AP.eap",
   "diagram": "OSLO-LDES-AP",
   "template": "OSLO-LDES-voc.j2",
   "title": "OSLO LDES",

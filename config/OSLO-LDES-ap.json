@@ -2,7 +2,7 @@
 {
   "name": "OSLO-LDES-ap",
   "type": "ap",
-  "eap": "OSLO-LDES.eap",
+  "eap": "OSLO-LDES-AP.eap",
   "diagram": "OSLO-LDES-AP",
   "template": "OSLO-LDES-ap.j2",
   "title": "OSLO-LDES",
