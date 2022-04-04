@@ -7,7 +7,7 @@
   "template": "OSLO-LDES-ap.j2",
   "title": "OSLO-LDES",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
-  "publication-date": "2022-03-15",
+  "publication-date": "2022-04-04",
   "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
   "contributors-file": "stakeholders.csv",
   "contributors-column": "MijnKolom",
