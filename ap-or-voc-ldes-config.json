@@ -16,14 +16,6 @@
             "naam": "LDES Vocabularium (ontwerp)",
             "waarde": "https://test.data.vlaanderen.be/doc/vocabularium/ldes/ontwerpstandaard/2022-03-08"
         },
-        {
-            "naam": "Relatie Applicatieprofiel (ontwerp)",
-            "waarde": "https://test.data.vlaanderen.be/doc/applicatieprofiel/relatie/ontwerpstandaard/2022-03-08"
-        },
-        {
-            "naam": "Relatie Vocabularium (ontwerp)",
-            "waarde": "https://test.data.vlaanderen.be/doc/vocabularium/relatie/ontwerpstandaard/2022-03-08"
-        }
     ],
     "documentatie": [],
     "charter": [
