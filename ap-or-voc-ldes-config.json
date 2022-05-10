@@ -10,11 +10,11 @@
     "specificatiedocument": [
         {
             "naam": "LDES Applicatieprofiel (ontwerp)",
-            "waarde": "https://test.data.vlaanderen.be/doc/applicatieprofiel/ldes/ontwerpstandaard/2022-05-04"
+            "waarde": "https://test.data.vlaanderen.be/doc/applicatieprofiel/ldes/ontwerpstandaard/2022-05-09"
         },
         {
             "naam": "LDES Vocabularium (ontwerp)",
-            "waarde": "https://test.data.vlaanderen.be/doc/vocabularium/ldes/ontwerpstandaard/2022-05-04"
+            "waarde": "https://test.data.vlaanderen.be/doc/vocabularium/ldes/ontwerpstandaard/2022-05-09"
         },
     ],
     "documentatie": [],
