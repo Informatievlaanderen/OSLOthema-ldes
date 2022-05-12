@@ -1,46 +1,46 @@
-Voornaam,Naam,Affiliatie,E-mail,Website,MijnKolom
-Pieter,Colpaert ,IMEC,pieter.colpaert@imec.be,,E
-Annelies,De Craene,Digitaal Vlaanderen,annelies.decraene@vlaanderen.be,,A
-Adriaan,Walpot,Digitaal Vlaanderen,adriaan.walpot@vlaanderen.be,,A
-Phillipe,Michiels,IMEC,phillipe.michiels.ext@imec.be,,A
-Dwight ,Van Lancker,Digitaal Vlaanderen,dwight.vanlancker@vlaanderen.be,,E
-Bert,Van Nuffelen,Digitaal Vlaanderen,bert.vannuffelen@vlaanderen.be,,E
-Thijs ,Hegge,PwC Belgium,thijs.hegge@pwc.com,,E
-Laurens,Vercauteren,Digitaal Vlaanderen,laurens.vercauteren@vlaanderen.be,,A
-Arne,Van Der Stuyft,Digitaal Vlaanderen,arne.vanderstuyft@vlaanderen.be,,E
-Geert,Thijs,Digitaal Vlaanderen,geert.thijs@vlaanderen.be,,E
-Simon,Claus,Digitaal Vlaanderen,simon.claus@vlaanderen.be,,A
-Filip,Borloo,Digitaal Vlaanderen,filip.borloo@vlaanderen.be,,A
-Geraldine,Nolf,Digitaal Vlaanderen,geraldine.nolf@vlaanderen.be,,A
-Justine,Ottevaere ,Digitaal Vlaanderen,justine.ottevaere@vlaanderen.be,,C
-Jiao,Long,Universiteit Gent,jiao.long@ugent.be,,C
-Philip,Huysmans,NSX,philip.huysmans@nsx.be,,C
-Frans ,Verstreken,NSX,frans.verstreken@nsx.be,,C
-Patrick,Michels,Atos,patrick.michels@atos.be,,C
-Gert,Bergers,Esri Belux,gert.bergers@esri.be,,C
-Christophe ,Cop,Konsolidate,christophe.cop@konsolidate.be,,C
-Wim,Driessens,Esri Belux,wim.driessens@esri.be,,C
-Maarten ,Segers,District09,maarten.segers@district09.be,,C
-Ranko,Orlic,Cegeka,ranko.orlic@cegeka.be,,C
-Joke,Lybaert,Cegeka,joke.lybaert@cegeka.be,,C
-Jan,Robert,Cegeka,jan.robert@cegeka.be,,C
-Wouter,Lefever,Cegeka,wouter.lefever@cegeka.be,,C
-Emanuel,Gaytant,Cegeka,emanuel.gaytant@cegeka.be,,C
-Inge,Van Hooydonck,Departement Mobiliteit en Openbare Werken,inge.vanhooydocnk@mow.vlaanderen.be,,C
-Joris,Hoogeboom,Agentschap Wegen en Verkeer,joris.hoogeboom@mow.vlaanderen.be,,C
-Jelle,Hoedemaekers,Agoria,jelle.hoedemaekers@agoria.be,,C
-Tom ,Van den abbeele ,Inuits,tom.vandenabbeele@inuits.be,,C
-Dimitri ,Hertogs,Digitaal Vlaanderen,dimitri.hertogs@vlaanderen.be,,C
-Veerle ,Beyaert,Digitaal Vlaanderen,veerle.beyaert@vlaanderen.be,,C
-Brecht,Van de Vyvere,IDLab - Universiteit Gent,brecht.vandevyvere@ugent.be,,C
-Ruben,Verbogh,IDLab - Universiteit Gent,ruben.verbogh@ugent.be,,C
-Milan,Lamote,Vlaams Instituut voor de Zee (VLIZ),milan.lamote@vliz.be,,C
-Marc,Portier,Vlaams Instituut voor de Zee (VLIZ),marc.portier@vliz.be,,C
-Guy ,Dillen,De Watergroep,guy.dillen@dewatergroep.be,,C
-Roland,Schmidt,Atos,roland.schmidt@atos.be,,C
-Jan ,Geukens,MyCSN NV,jan.geukens@myscn.be,,C
-Tom ,Michiels,Cronos,tom.michiels@cronos.be,,C
-Peter,Van der Perre,ITS Belgium,peter.vanderperre@its.be,,C
-Michael ,Meersman,Digitpolis,michael.meersman@digipolis.be,,C
-Mathieu,Beirlaen,Digitaal Vlaanderen,mathieu.beirlaen@vlaanderen.be,,C
-Niels,Vandekeybus,RedPencil,niels.vandekeybus@redpencil.be,,C
+Voornaam;Naam;Affiliatie;E-mail;Website;MijnKolom;
+Pieter;Colpaert ;IMEC;pieter.colpaert@imec.be;;E;
+Annelies;De Craene;Digitaal Vlaanderen;annelies.decraene@vlaanderen.be;;A;
+Adriaan;Walpot;Digitaal Vlaanderen;adriaan.walpot@vlaanderen.be;;A;
+Phillipe;Michiels;IMEC;phillipe.michiels.ext@imec.be;;A;
+Dwight ;Van Lancker;Digitaal Vlaanderen;dwight.vanlancker@vlaanderen.be;;E;
+Bert;Van Nuffelen;Digitaal Vlaanderen;bert.vannuffelen@vlaanderen.be;;E;
+Thijs ;Hegge;PwC Belgium;thijs.hegge@pwc.com;;E;
+Laurens;Vercauteren;Digitaal Vlaanderen;laurens.vercauteren@vlaanderen.be;;A;
+Arne;Van Der Stuyft;Digitaal Vlaanderen;arne.vanderstuyft@vlaanderen.be;;E;
+Geert;Thijs;Digitaal Vlaanderen;geert.thijs@vlaanderen.be;;E;
+Simon;Claus;Digitaal Vlaanderen;simon.claus@vlaanderen.be;;A;
+Filip;Borloo;Digitaal Vlaanderen;filip.borloo@vlaanderen.be;;A;
+Geraldine;Nolf;Digitaal Vlaanderen;geraldine.nolf@vlaanderen.be;;A;
+Justine;Ottevaere ;Digitaal Vlaanderen;justine.ottevaere@vlaanderen.be;;C;
+Jiao;Long;Universiteit Gent;jiao.long@ugent.be;;C;
+Philip;Huysmans;NSX;philip.huysmans@nsx.be;;C;
+Frans ;Verstreken;NSX;frans.verstreken@nsx.be;;C;
+Patrick;Michels;Atos;patrick.michels@atos.be;;C;
+Gert;Bergers;Esri Belux;gert.bergers@esri.be;;C;
+Christophe ;Cop;Konsolidate;christophe.cop@konsolidate.be;;C;
+Wim;Driessens;Esri Belux;wim.driessens@esri.be;;C;
+Maarten ;Segers;District09;maarten.segers@district09.be;;C;
+Ranko;Orlic;Cegeka;ranko.orlic@cegeka.be;;C;
+Joke;Lybaert;Cegeka;joke.lybaert@cegeka.be;;C;
+Jan;Robert;Cegeka;jan.robert@cegeka.be;;C;
+Wouter;Lefever;Cegeka;wouter.lefever@cegeka.be;;C;
+Emanuel;Gaytant;Cegeka;emanuel.gaytant@cegeka.be;;C;
+Inge;Van Hooydonck;Departement Mobiliteit en Openbare Werken;inge.vanhooydocnk@mow.vlaanderen.be;;C;
+Joris;Hoogeboom;Agentschap Wegen en Verkeer;joris.hoogeboom@mow.vlaanderen.be;;C;
+Jelle;Hoedemaekers;Agoria;jelle.hoedemaekers@agoria.be;;C;
+Tom ;Van den abbeele ;Inuits;tom.vandenabbeele@inuits.be;;C;
+Dimitri ;Hertogs;Digitaal Vlaanderen;dimitri.hertogs@vlaanderen.be;;C;
+Veerle ;Beyaert;Digitaal Vlaanderen;veerle.beyaert@vlaanderen.be;;C;
+Brecht;Van de Vyvere;IDLab - Universiteit Gent;brecht.vandevyvere@ugent.be;;C;
+Ruben;Verbogh;IDLab - Universiteit Gent;ruben.verbogh@ugent.be;;C;
+Milan;Lamote;Vlaams Instituut voor de Zee (VLIZ);milan.lamote@vliz.be;;C;
+Marc;Portier;Vlaams Instituut voor de Zee (VLIZ);marc.portier@vliz.be;;C;
+Guy ;Dillen;De Watergroep;guy.dillen@dewatergroep.be;;C;
+Roland;Schmidt;Atos;roland.schmidt@atos.be;;C;
+Jan ;Geukens;MyCSN NV;jan.geukens@myscn.be;;C;
+Tom ;Michiels;Cronos;tom.michiels@cronos.be;;C;
+Peter;Van der Perre;ITS Belgium;peter.vanderperre@its.be;;C;
+Michael ;Meersman;Digitpolis;michael.meersman@digipolis.be;;C;
+Mathieu;Beirlaen;Digitaal Vlaanderen;mathieu.beirlaen@vlaanderen.be;;C;
+Niels;Vandekeybus;RedPencil;niels.vandekeybus@redpencil.be;;C;
