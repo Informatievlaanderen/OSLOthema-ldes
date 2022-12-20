@@ -1,19 +1,15 @@
 {
-    "naam": "Vocabularia en Applicatieprofielen LDES",
+    "naam": "Vocabularium LDES",
     "rapport": "",
     "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
     "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
-    "publicatiedatum": "",
-    "type_toepassing": "",
-    "categorie": "Vocabularium & applicatieprofielen",
+    "publicatiedatum": "2022-12-01",
+    "type_toepassing": "Aanbevolen (vrijwillig)",
+    "categorie": "Vocabularium",
     "beschrijving": "ldes-description.md",
     "specificatiedocument": [
         {
-            "naam": "LDES Applicatieprofiel (ontwerp)",
-            "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/ldes"
-        },
-        {
-            "naam": "LDES Vocabularium (ontwerp)",
+            "naam": "LDES Vocabularium",
             "waarde": "https://data.vlaanderen.be/ns/ldes"
         }
     ],
@@ -72,5 +68,5 @@
     "organisatorisch_werkingsgebied": "",
     "datum_van_aanmelding": "18 november 2021",
     "erkenning_werkgroep_datastandaarden": "TBD",
-    "erkenning_stuurgroep": "TBD"
+    "erkenning_stuurgroep": "1 december 2022"
 }
