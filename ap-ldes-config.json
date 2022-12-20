@@ -1,0 +1,72 @@
+{
+    "naam": "Applicatieprofiel LDES",
+    "rapport": "",
+    "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
+    "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
+    "publicatiedatum": "2022-12-01",
+    "type_toepassing": "Aanbevolen (vrijwillig)",
+    "categorie": "Applicatieprofiel",
+    "beschrijving": "ldes-description.md",
+    "specificatiedocument": [
+        {
+            "naam": "LDES Applicatieprofiel",
+            "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/ldes"
+        }
+    ],
+    "documentatie": [],
+    "charter": [
+        {
+            "naam": "Projectcharter",
+            "waarde": "Werkgroep charter OSLO LDES.docx"
+        }
+    ],
+    "verslagen": [
+        {
+            "naam": "Verslag business werkgroep 1 - 16 december 2021",
+            "waarde": "Verslag business werkgroep - 16 december 2021.docx"
+        },
+        {
+            "naam": "Verslag thematische werkgroep 1 - 20 januari 2022",
+            "waarde": "Verslag thematische werkgroep 1 - 20 januari 2022.docx"
+        },
+        {
+            "naam": "Verslag thematische werkgroep 2 - 17 februari 2022",
+            "waarde": "Verslag thematische werkgroep 2 - 17 februari 2022.docx"
+        },
+        {
+            "naam": "Verslag thematische werkgroep 3 - 17 maart 2022",
+            "waarde": "Verslag thematische werkgroep 3 - 17 maart 2022.docx"
+        },
+        {
+            "naam": "Verslag thematische werkgroep 4 - 28 april 2022",
+            "waarde": "Verslag thematische werkgroep 4 - 28 april 2022.docx"
+        }
+    ],
+    "presentaties": [
+        {
+            "naam": "Presentatie business werkgroep 1 - 16 december 2021",
+            "waarde": "Presentatie business werkgroep - 16 december 2021.pptx"
+        },
+        {
+            "naam": "Presentatie thematische werkgroep 1 - 20 januari 2022",
+            "waarde": "Presentatie thematische werkgroep 1 - 20 januari 2022.pdf"
+        },
+        {
+            "naam": "Presentatie thematische werkgroep 2 - 17 februari 2022",
+            "waarde": "Presentatie thematische werkgroep 2 - 17 februari 2022.pdf"
+        },
+        {
+            "naam": "Presentatie thematische werkgroep 3 - 17 maart 2022",
+            "waarde": "Presentatie thematische werkgroep 3 - 17 maart 2022.pdf"
+        },
+        {
+            "naam": "Presentatie thematische werkgroep 4 - 28 april 2022",
+            "waarde": "Presentatie thematische werkgroep 4 - 28 april 2022.pdf"
+        }
+    ],
+    "functioneel_toepassingsgebied": "",
+    "organisatorisch_werkingsgebied": "",
+    "datum_van_aanmelding": "18 november 2021",
+    "erkenning_werkgroep_datastandaarden": "TBD",
+    "erkenning_stuurgroep": "1 december 2022"
+}
