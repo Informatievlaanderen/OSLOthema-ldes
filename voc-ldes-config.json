@@ -1,72 +1,75 @@
 {
-    "naam": "Vocabularium LDES",
-    "rapport": "",
-    "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
-    "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
-    "publicatiedatum": "2022-12-01",
-    "type_toepassing": "Aanbevolen (vrijwillig)",
-    "categorie": "Vocabularium",
-    "beschrijving": "ldes-description.md",
-    "specificatiedocument": [
-        {
-            "naam": "LDES Vocabularium",
-            "waarde": "https://data.vlaanderen.be/ns/ldes"
-        }
+    "title": "Vocabularium LDES",
+    "category": "Vocabularium",
+    "usage": "Aanbevolen (vrijwillig)",
+    "status": "erkende-standaard",
+    "descriptionFileName": "ldes-description.md",
+    "responsibleOrganisation": [
+      {
+        "name": "Agentschap Digitaal Vlaanderen",
+        "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
+      }
     ],
-    "documentatie": [],
-    "charter": [
-        {
-            "naam": "Projectcharter",
-            "waarde": "Werkgroep charter OSLO LDES.docx"
-        }
+    "publicationDate": "2022-12-01",
+    "specificationDocuments": [
+      {
+        "name": "LDES Vocabularium",
+        "resourceReference": "https://data.vlaanderen.be/ns/ldes"
+      }
     ],
-    "verslagen": [
-        {
-            "naam": "Verslag business werkgroep 1 - 16 december 2021",
-            "waarde": "Verslag business werkgroep - 16 december 2021.docx"
-        },
-        {
-            "naam": "Verslag thematische werkgroep 1 - 20 januari 2022",
-            "waarde": "Verslag thematische werkgroep 1 - 20 januari 2022.docx"
-        },
-        {
-            "naam": "Verslag thematische werkgroep 2 - 17 februari 2022",
-            "waarde": "Verslag thematische werkgroep 2 - 17 februari 2022.docx"
-        },
-        {
-            "naam": "Verslag thematische werkgroep 3 - 17 maart 2022",
-            "waarde": "Verslag thematische werkgroep 3 - 17 maart 2022.docx"
-        }, 
-        {
-            "naam": "Verslag thematische werkgroep 4 - 28 april 2022",
-            "waarde": "Verslag thematische werkgroep 4 - 28 april 2022.docx"
-        }
+    "documentation": [],
+    "reports": [
+      {
+        "name": "Verslag business werkgroep 1 - 16 december 2021",
+        "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-ldes/standaardenregister/reports/Verslag business werkgroep - 16 december 2021.docx"
+      },
+      {
+        "name": "Verslag thematische werkgroep 1 - 20 januari 2022",
+        "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-ldes/standaardenregister/reports/Verslag thematische werkgroep 1 - 20 januari 2022.docx"
+      },
+      {
+        "name": "Verslag thematische werkgroep 2 - 17 februari 2022",
+        "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-ldes/standaardenregister/reports/Verslag thematische werkgroep 2 - 17 februari 2022.docx"
+      },
+      {
+        "name": "Verslag thematische werkgroep 3 - 17 maart 2022",
+        "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-ldes/standaardenregister/reports/Verslag thematische werkgroep 3 - 17 maart 2022.docx"
+      },
+      {
+        "name": "Verslag thematische werkgroep 4 - 28 april 2022",
+        "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-ldes/standaardenregister/reports/Verslag thematische werkgroep 4 - 28 april 2022.docx"
+      }
     ],
-    "presentaties": [
-        {
-            "naam": "Presentatie business werkgroep 1 - 16 december 2021",
-            "waarde": "Presentatie business werkgroep - 16 december 2021.pptx"
-        },
-        {
-            "naam": "Presentatie thematische werkgroep 1 - 20 januari 2022",
-            "waarde": "Presentatie thematische werkgroep 1 - 20 januari 2022.pdf"
-        },
-        {
-            "naam": "Presentatie thematische werkgroep 2 - 17 februari 2022",
-            "waarde": "Presentatie thematische werkgroep 2 - 17 februari 2022.pdf"
-        },
-        {
-            "naam": "Presentatie thematische werkgroep 3 - 17 maart 2022",
-            "waarde": "Presentatie thematische werkgroep 3 - 17 maart 2022.pdf"
-        }, 
-        {
-            "naam": "Presentatie thematische werkgroep 4 - 28 april 2022",
-            "waarde": "Presentatie thematische werkgroep 4 - 28 april 2022.pdf"
-        }
+    "charter": {
+      "name": "Projectcharter",
+      "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-ldes/standaardenregister/charter/Werkgroep charter OSLO LDES.docx"
+    },
+    "presentations": [
+      {
+        "name": "Presentatie business werkgroep 1 - 16 december 2021",
+        "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-ldes/standaardenregister/presentations/Presentatie business werkgroep - 16 december 2021.pptx"
+      },
+      {
+        "name": "Presentatie thematische werkgroep 1 - 20 januari 2022",
+        "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-ldes/standaardenregister/presentations/Presentatie thematische werkgroep 1 - 20 januari 2022.pdf"
+      },
+      {
+        "name": "Presentatie thematische werkgroep 2 - 17 februari 2022",
+        "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-ldes/standaardenregister/presentations/Presentatie thematische werkgroep 2 - 17 februari 2022.pdf"
+      },
+      {
+        "name": "Presentatie thematische werkgroep 3 - 17 maart 2022",
+        "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-ldes/standaardenregister/presentations/Presentatie thematische werkgroep 3 - 17 maart 2022.pdf"
+      },
+      {
+        "name": "Presentatie thematische werkgroep 4 - 28 april 2022",
+        "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-ldes/standaardenregister/presentations/Presentatie thematische werkgroep 4 - 28 april 2022.pdf"
+      }
     ],
-    "functioneel_toepassingsgebied": "",
-    "organisatorisch_werkingsgebied": "",
-    "datum_van_aanmelding": "18 november 2021",
-    "erkenning_werkgroep_datastandaarden": "TBD",
-    "erkenning_stuurgroep": "1 december 2022"
-}
+    "dateOfRegistration": "18 november 2021",
+    "dateOfAcknowledgementByWorkingGroup": "TBD",
+    "dateOfAcknowledgementBySteeringCommittee": "1 december 2022",
+    "repository": "OSLOthema-ldes",
+    "datePublicReviewStart": "",
+    "endOfPublicationDate": ""
+  }
