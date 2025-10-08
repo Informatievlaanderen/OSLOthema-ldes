@@ -1,3 +1,2 @@
-YYYY-MM--DD
-  - Mijn aanpassing1
-  - Mijn aanpassing2
+2025-01-08
+ - EAP aanpassing met verwijdering van extra informatie over de klasse generiek:Versie: namelijk dat die een subklasse is van prov:Entity. 
