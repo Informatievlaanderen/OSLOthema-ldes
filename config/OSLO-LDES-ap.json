@@ -1,6 +1,6 @@
 [
   {
-    "name": "OSLO-LDES-ap",
+    "name": "ldes",
     "type": "ap",
     "eap": "OSLO-LDES-AP.eap",
     "diagram": "OSLO-LDES",
